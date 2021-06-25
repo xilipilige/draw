@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:05:03.064Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MWZ5_xbm7CNNKDWDZPuN" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:13:32.373Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8aCjpGyCEjSaOySu_xvN" version="14.8.0" type="github">
   <diagram id="TPtY_-Mx4_MzcNfdoA1z" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-1" value="Sonatype Nexus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-2" value="gitLab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-3" value="Confluence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-4" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-5" value="Bugfree" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmrxVHwH7PWrsq-ylOWu-6" value="Y API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmrxVHwH7PWrsq-ylOWu-18" value="代码管理" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="259" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AmrxVHwH7PWrsq-ylOWu-19" value="依赖管理" style="shape=mxgraph.basic.diag_round_rect;dx=37;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="419" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AmrxVHwH7PWrsq-ylOWu-20" value="知识管理" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipH=1;flipV=1;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="259" y="700" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AmrxVHwH7PWrsq-ylOWu-21" value="缺陷管理" style="shape=mxgraph.basic.diag_round_rect;dx=37;flipV=1;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;strokeWidth=8;" vertex="1" parent="1">
+          <mxGeometry x="419" y="700" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
